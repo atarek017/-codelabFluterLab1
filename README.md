@@ -1,4 +1,4 @@
-# gdg_mena
+# Codelabe Flutter part1
 
 A new Flutter project.
 
